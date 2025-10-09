@@ -2,32 +2,37 @@
 
 **GoodShoe**, a modern online store for sports shoes built as a full-stack web application using ASP .NET Core and Bootstrap. This project aims to recreate a real-world e-commerce platform designed to showcase and sell sport shoes. 
 
-You can follow this link to view our website: [goodshoe.runasp.net] (http://goodshoe.runasp.net) 
+👉   Check out our website here :  (   http://goodshoe.runasp.net  ) 👈
 
-![HomeScreen Page](homescreen.png)
+
+
+https://github.com/user-attachments/assets/299c12e4-743e-4bcb-8fd9-11076b36fc39
+
+
 
 ## Project Overview
 
-GoodShoe is a collaborative project developed by a team from the University Of NewCastle, Australia, using the **Scrum Agile methodology**. The platform is to demonstrates expertise in full-stack development, UI/UX design, and database management, tailored for both customers and administators. GoodShoe is designed for athlethes and everyday users with a seamless and engaging online sport shoe shopping experience.
+GoodShoe is a collaborative project developed by a team from the University Of NewCastle, Australia, using the ***Scrum Agile methodology***. The platform is to demonstrates expertise in full-stack development, UI/UX design, and database management, tailored for both customers and administators. 
+GoodShoe is designed for athlethes and everyday users with a seamless and engaging online sport shoe shopping experience.
 
-## Features
+## ⚙️ Features 
 
-- **Home Page**: Browse a catalog of shoes with navigation, search, filtering, and sorting options.
-- **User Profile Page**: Register, log in, log out, and manage account details, including order history.
-- **Shopping Cart & Orders**: Add items to a cart, view and remove products, proceed through a mock checkout, and track past orders with a confirmation popup.
-- **Admin Dashboard**: Restricted access for admins to manage products, and orders.
+- ***Home Page***: Browse a catalog of shoes with navigation, search, filtering, and sorting options.
+- ***User Profile Page***: Register, log in, log out, and manage account details, including order history.
+- ***Shopping Cart & Orders***: Add items to a cart, view and remove products, proceed through a mock checkout, and track past orders with a confirmation popup.
+- ***Admin Dashboard***: Restricted access for admins to manage products, and orders.
 
-## Technologies
+## 💻 Technologies
 
-- **Frontend**: HTML, CSS, Bootstrap, Razor
-- **Backend**: ASP.NET Core (MVC), C#, JavaScript
-- **Authentication**: ASP.NET Identity
-- **Database**: SQL Server
-- **Development Tools**: Visual Studio / JetBrains Rider
-- **Version Control**: Git & GitHub
-- **Hosting**: Localhost (Azure optional)
+- ***Frontend***: HTML, CSS, Bootstrap, Razor
+- ***Backend***: ASP.NET Core (MVC), C#, JavaScript
+- ***Authentication***: ASP.NET Identity
+- ***Database***: SQL Server
+- ***Development Tools***: Visual Studio / JetBrains Rider
+- ***Version Control***: Git & GitHub
+- ***Hosting***: Localhost (Azure optional)
 
-### Installation
+## Installation
 1. **Clone the Repository** :
    ```bash
    git clone https://github.com/your-username/GoodShoe.git
@@ -56,5 +61,3 @@ GoodShoe is a collaborative project developed by a team from the University Of N
 4. **Run the Application** :
    ```bash
    dotnet run
-
-
